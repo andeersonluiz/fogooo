@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://github.com/andeersonluiz/fogooo/assets/42013276/130411fd-71ac-468d-b526-10e8ffa0eded)">
+<p>Código-fonte do projeto: https://github.com/andeersonluiz/fog.ooo.git</p>  
 </p>
 O site fog.ooo é uma aplicação similar ao Wordle, onde o objetivo do jogo é acertar qual jogador secreto passou pelo time de futebol Botafogo de Futebol e Regatas. O jogo é baseado em pistas e dedução, onde os jogadores devem adivinhar o jogador correto usando as informações fornecidas
 
