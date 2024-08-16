@@ -35,8 +35,7 @@ O site fog.ooo é uma aplicação similar ao Wordle, onde o objetivo do jogo é 
 
 Caso tenha alguma dúvida ou deseje entrar em contato, você pode me encontrar em:
 
-- [LinkedIn] https://www.linkedin.com/in/anderson-luiz-05b485208
-- [Email] andeersonrocha1998@gmail.com
+
 
 
 - [LinkedIn] https://www.linkedin.com/in/anderson-luiz-05b485208
